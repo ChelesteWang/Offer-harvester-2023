@@ -8,6 +8,14 @@
 
 23届 xx大学 xxx
 
+## 群规
+
+我们群的宗旨是希望能给23届的同学们一个交流学习的空间，先 offer 带动后 offer 大家一起努力。所以不要在群里刷屏 my dream， 0 offer 等阴阳怪气的话
+
+进群最好先做自我介绍，让大家互相认识一下，名片可以改成 xx届 xx github 用户名 （大家可以相互follow 一下）
+
+欢迎关注本项目 Offer-harvester-2023 watch + star
+
 ## 前端学习资源汇总：前端大学 [https://github.com/frontend-university](https://github.com/frontend-university)
 
 ## 寻找资源分享资源欢迎在 discussions 中分享
