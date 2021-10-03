@@ -8,4 +8,8 @@
 
 23届 xx大学 xxx
 
-![mmqrcode1633222172737](https://user-images.githubusercontent.com/40495740/135735636-448b891b-346b-40b8-9dc1-6bac4ae0d571.png)
+## 前端学习资源汇总：前端大学 [https://github.com/frontend-university](https://github.com/frontend-university)
+
+加群：
+
+![51C22DC175745A8294131BEDB52B6719](https://user-images.githubusercontent.com/40495740/135736690-dfe79e50-30b6-457f-a917-585c047ca211.jpg)
