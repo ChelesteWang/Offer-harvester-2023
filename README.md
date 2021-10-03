@@ -10,7 +10,8 @@
 
 ## 前端学习资源汇总：前端大学 [https://github.com/frontend-university](https://github.com/frontend-university)
 
-## 寻找资源分享资源欢迎在 discussions 中分享 [https://github.com/ChelesteWang/Offer-harvester-2023/discussions/4](https://github.com/ChelesteWang/Offer-harvester-2023/discussions/4)
+## 寻找资源分享资源欢迎在 discussions 中分享
+[https://github.com/ChelesteWang/Offer-harvester-2023/discussions/4](https://github.com/ChelesteWang/Offer-harvester-2023/discussions/4)
 
 加群：
 
