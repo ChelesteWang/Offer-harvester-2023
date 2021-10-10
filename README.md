@@ -13,6 +13,9 @@
 1. [JavaScript 编程题整理总结](https://github.com/ChelesteWang/JavaScript-challenger)
 2. [前端大学](https://github.com/frontend-university)
 
+## 资源推荐
+1.[群主前端启蒙读物-被删的前端游乐场](https://godbasin.github.io/front-end-playground/)
+
 ## 群规
 
 我们群的宗旨是希望能给 23 届的同学们一个交流学习的空间，先 offer 带动后 offer 大家一起努力。所以不要在群里刷屏 my dream， 0 offer 等阴阳怪气的话
