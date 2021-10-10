@@ -14,7 +14,8 @@
 2. [前端大学](https://github.com/frontend-university)
 
 ## 资源推荐
-1.[群主前端启蒙读物-被删的前端游乐场](https://godbasin.github.io/front-end-playground/)
+1. [群主前端启蒙读物-被删的前端游乐场](https://godbasin.github.io/front-end-playground/)
+2. [很棒的 nodejs 资源汇总](https://github.com/huaize2020/awesome-nodejs)
 
 ## 群规
 
