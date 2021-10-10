@@ -24,8 +24,7 @@
 加群：
 
 
-![51C22DC175745A8294131BEDB52B6719
-](https://user-images.githubusercontent.com/40495740/135736690-dfe79e50-30b6-457f-a917-585c047ca211.jpg)
+![image](https://user-images.githubusercontent.com/40495740/136682351-da47dc68-9bcc-473b-9472-9b7adc57511a.png)
 
 加微信进群
 ![mmqrcode1633222172737](https://user-images.githubusercontent.com/40495740/135784115-d3cb7207-c313-442b-b8ff-44d58bde8ccf.png)
