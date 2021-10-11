@@ -8,6 +8,10 @@
 
 23 届 xx 大学 xxx
 
+## 贡献面经
+
+fork 本项目贡献代码，在面试经验文件夹创建 markdown 文件编辑你的面经，文件名字要求 xxxx-name.md ，编辑结束后提起 pull request 即可
+
 ## 参与共建
 
 1. [JavaScript 编程题整理总结](https://github.com/ChelesteWang/JavaScript-challenger)
