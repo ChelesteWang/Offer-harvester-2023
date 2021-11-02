@@ -35,9 +35,5 @@ fork 本项目贡献代码，在面试经验文件夹创建 markdown 文件编�
 ## 寻找资源分享资源欢迎在 discussions 中分享
 [https://github.com/ChelesteWang/Offer-harvester-2023/discussions/4](https://github.com/ChelesteWang/Offer-harvester-2023/discussions/4)
 
-加群：
-
-![image](https://user-images.githubusercontent.com/40495740/137575107-320420dd-e783-41cf-9e2f-24497daa3800.png)
-
 加微信进群
 ![mmqrcode1633222172737](https://user-images.githubusercontent.com/40495740/135784115-d3cb7207-c313-442b-b8ff-44d58bde8ccf.png)
