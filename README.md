@@ -1,7 +1,6 @@
 # Offer-harvester-2023
 
-<img src="https://user-images.githubusercontent.com/40495740/140842776-98048ccc-f236-4c90-b9de-a5bb87b050ce.png" style:"margin:0 auto"/>
-
+<img src="https://user-images.githubusercontent.com/40495740/140842776-98048ccc-f236-4c90-b9de-a5bb87b050ce.png" />
 
 
 目前群人数已超过 200 + 需要拉进群
