@@ -1,5 +1,9 @@
 # Offer-harvester-2023
 
+<img src="https://user-images.githubusercontent.com/40495740/140842776-98048ccc-f236-4c90-b9de-a5bb87b050ce.png" style:"margin:0 auto"/>
+
+
+
 目前群人数已超过 200 + 需要拉进群
 
 希望给 23 届前端一个共同学习交流的空间，收益于 21 届 及 22 届 学长的交流群中，认识了很多大佬，也希望能有一个 23 届前端的小社区，大家一起打卡，相互交流学习，资源共享。
