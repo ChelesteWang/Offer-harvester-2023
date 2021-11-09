@@ -1,7 +1,6 @@
 # Offer-harvester-2023
 
-<img src="https://user-images.githubusercontent.com/40495740/140842776-98048ccc-f236-4c90-b9de-a5bb87b050ce.png" />
-
+<img src="https://user-images.githubusercontent.com/40495740/140842776-98048ccc-f236-4c90-b9de-a5bb87b050ce.png"/>
 
 目前群人数已超过 200 + 需要拉进群
 
@@ -10,8 +9,6 @@
 群里掉落各种内推机会，也欢迎大家分享经验。
 
 进群详情欢迎加微信联系我，申请消息说明自我介绍一下
-
-23 届 xx 大学 xxx
 
 ## 群活动
 
