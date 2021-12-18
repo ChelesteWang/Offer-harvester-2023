@@ -27,6 +27,7 @@ fork 本项目贡献代码，在面试经验文件夹创建 markdown 文件编�
 1. [群主前端启蒙读物-被删的前端游乐场](https://godbasin.github.io/front-end-playground/)
 2. [很棒的 nodejs 资源汇总](https://github.com/huaize2020/awesome-nodejs)
 3. [还不错的 React 实战电子书](https://chelestewang.github.io/react-learning-road-cn)
+4. [若川哥的源码共读](https://www.yuque.com/ruochuan12/notice/info)
 
 ## 群规
 
