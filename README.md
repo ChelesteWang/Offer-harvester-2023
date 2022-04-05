@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/40495740/140842776-98048ccc-f236-4c90-b9de-a5bb87b050ce.png"/>
 
-目前群人数已超过 200 + 需要拉进群
+目前群人数已超过 400 + 需要拉进群
 
 希望给 23 届前端一个共同学习交流的空间，收益于 21 届 及 22 届 学长的交流群中，认识了很多大佬，也希望能有一个 23 届前端的小社区，大家一起打卡，相互交流学习，资源共享。
 
@@ -44,6 +44,6 @@ fork 本项目贡献代码，在面试经验文件夹创建 markdown 文件编�
 [https://github.com/ChelesteWang/Offer-harvester-2023/discussions/4](https://github.com/ChelesteWang/Offer-harvester-2023/discussions/4)
 
 
-目前群人数已超过 200 + 需要拉进群
+目前群人数已超过 400 + 需要拉进群
 加微信进群
 ![mmqrcode1633222172737](https://user-images.githubusercontent.com/40495740/135784115-d3cb7207-c313-442b-b8ff-44d58bde8ccf.png)
