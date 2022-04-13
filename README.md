@@ -30,6 +30,11 @@ fork 本项目贡献代码，在面试经验文件夹创建 markdown 文件编�
 4. [若川哥的源码共读](https://www.yuque.com/ruochuan12/notice/info)
 5. [百度前端技术学院](http://ife.baidu.com/)
 
+## 招聘
+
+![image](https://user-images.githubusercontent.com/40495740/163181874-62e8f3ce-6faf-4cdb-9f01-b413f9c33220.png)
+
+
 ## 群规
 
 我们群的宗旨是希望能给 23 届的同学们一个交流学习的空间，先 offer 带动后 offer 大家一起努力。所以不要在群里刷屏 my dream， 0 offer 等阴阳怪气的话
@@ -41,8 +46,6 @@ fork 本项目贡献代码，在面试经验文件夹创建 markdown 文件编�
 ## 前端学习资源汇总：前端大学 [https://github.com/frontend-university](https://github.com/frontend-university)
 
 ## 寻找资源分享资源欢迎在 discussions 中分享
-[https://github.com/ChelesteWang/Offer-harvester-2023/discussions/4](https://github.com/ChelesteWang/Offer-harvester-2023/discussions/4)
-
 
 目前群人数已超过 400 + 需要拉进群
 加微信进群
